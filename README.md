@@ -13,3 +13,4 @@ Rscript file_name
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.r 		| - Hello world to R |
 | 1_variables.r 		| - Using variables |
+| 2_data_structures.r	| - Using basic data structures (Vector, Matrix) |

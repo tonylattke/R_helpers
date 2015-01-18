@@ -55,12 +55,12 @@ sprintf("%d / %d = %d",foo,bar,baz);
 
 foo = 429;
 bar = 43;
-baz = foo %% bar;# Module
+baz = foo %% bar;	# Module
 sprintf("%d mod %d is: %d",foo,bar,baz);
 
 foo = 6.48074069840786;
 bar = 2;
-baz = foo ** bar;# Pow
+baz = foo ** bar;	# Pow
 sprintf("%f to the power of %d is: %d",foo,bar,baz);
 
 # Strings
