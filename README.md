@@ -12,3 +12,4 @@ Rscript file_name
 | File name        		| Description 												   |
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.r 		| - Hello world to R |
+| 1_variables.r 		| - Using variables |
