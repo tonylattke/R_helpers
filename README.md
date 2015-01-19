@@ -17,3 +17,4 @@ Rscript file_name
 | 3_conditionals.r		| - Using if and compare values |
 | 4_loops.r				| - Using loops (While and For) |
 | 5_functions_methods.r | - Using functions and methods |
+| 6_libraries.r			| - Using libraries |
