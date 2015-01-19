@@ -15,3 +15,4 @@ Rscript file_name
 | 1_variables.r 		| - Using variables |
 | 2_data_structures.r	| - Using basic data structures (Vector, Matrix) |
 | 3_conditionals.r		| - Using if and compare values |
+| 4_loops.r				| - Using loops (While and For) |
