@@ -16,3 +16,4 @@ Rscript file_name
 | 2_data_structures.r	| - Using basic data structures (Vector, Matrix) |
 | 3_conditionals.r		| - Using if and compare values |
 | 4_loops.r				| - Using loops (While and For) |
+| 5_functions_methods.r | - Using functions and methods |
