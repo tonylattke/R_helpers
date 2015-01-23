@@ -18,3 +18,5 @@ Rscript file_name
 | 4_loops.r				| - Using loops (While and For) |
 | 5_functions_methods.r | - Using functions and methods |
 | 6_libraries.r			| - Using libraries |
+| 7_io.r 				| - Manipulate files |
+| 8_value_transform.r	| - Value to string and string to value functions |
