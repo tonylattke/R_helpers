@@ -23,3 +23,4 @@ Rscript file_name
 | 9_value_transform.r	| - Value to string and string to value functions |
 | 10_0_export_data.r	| - Class created to be exported |
 | 10_1_importing_files.r| - Import file |
+| 11_2D.r				| - Plot, Histogram and Boxplot |
