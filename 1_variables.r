@@ -67,7 +67,7 @@ sprintf("%f to the power of %d is: %d",foo,bar,baz);
 
 foo = "Octave";
 bar = " Works";
-baz = c(foo, bar,"\n"); # Concat Strings
+baz = paste(foo, bar,"\n"); # Concat Strings
 cat(baz);
 
 foo = '"It Wokrs"\n'; 	# Single quotes print literally text

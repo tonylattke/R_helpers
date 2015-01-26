@@ -17,6 +17,7 @@ Rscript file_name
 | 3_conditionals.r		| - Using if and compare values |
 | 4_loops.r				| - Using loops (While and For) |
 | 5_functions_methods.r | - Using functions and methods |
-| 6_libraries.r			| - Using libraries |
-| 7_io.r 				| - Manipulate files |
-| 8_value_transform.r	| - Value to string and string to value functions |
+| 6_classes.r 			| - Classes |
+| 7_libraries.r			| - Using libraries |
+| 8_io.r 				| - Manipulate files |
+| 9_value_transform.r	| - Value to string and string to value functions |
